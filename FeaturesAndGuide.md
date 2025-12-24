@@ -52,6 +52,8 @@ HelpWire sessions can be started in 2 ways - by using HelpWire Quick Connect, or
 2. Create a HelpWire account.
 
 ![Signing up for HelpWire](https://github.com/RecklessJeremy/helpwire-features-and-guide/blob/main/8_full_credentials.png)
+
+
 **Note:** If you’re unaffiliated with any company, you can leave the “Company name” field blank.
 
 3. Download and install the HelpWire Operator app.
